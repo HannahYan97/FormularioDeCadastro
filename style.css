@@ -39,6 +39,9 @@ fieldset > div {
 input{
     all: unset;
 }
+input::placeholder {
+    color: #e1e1e6;
+}
 fieldset button{
     width: fit-content;
     border: 0;
